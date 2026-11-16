@@ -20,3 +20,5 @@ Questions summarize the documents for educational use.
 ## Validation
 
 Compiled against Android API 36; DEX minimum API 30. APK signature and alignment verified. Question data checked for 20 questions, four choices per question, valid answers, and a 10/10 topic split. No phone or Android emulator was connected during the build; device installation and visual behavior remain untested.
+
+Version 1.1 adds a colorful gradient background, rounded question cards, larger text (25sp answers and 35sp questions), taller answer buttons, and green/red answer feedback. It uses the original signing key so it can update version 1.0 in place. Device visual testing remains unperformed.
